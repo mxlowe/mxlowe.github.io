@@ -2,7 +2,7 @@
 	<head>
 		<title>Matthew X. Lowe, PhD.</title> 
 
-	</head> 
+	</head>
 	<body>
 
 		<nav>

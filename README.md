@@ -26,6 +26,6 @@
 <p><h5><li><a href="https://scholar.google.ca/citations?user=aTRL1HMAAAAJ&hl=en">Google Scholar profile</a></li></h5></p>
 <p><h5><li><a href="https://www.researchgate.net/profile/Matthew_Lowe7">Research Gate profile</a></li></h5></p>
 		<footer> 
-		</footer>
+		</footer> 
 
   

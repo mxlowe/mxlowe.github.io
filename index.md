@@ -19,7 +19,7 @@
 				<h3>About</h3>
     		<!-- /blurb -->Matthew X. Lowe is currently a postdoctoral associate at the Massachusetts Institute of Technology (MIT) in the Computer Science and Artificial Intelligence Lab (CSAIL) under the supervision of Aude Oliva. Matthew obtained his bachelor's degree from the University of Cape Town, and his PhD from the University of Toronto under the supervision of Jonathan S. Cant and Susanne Ferber. Broadly, he is interested in the neural mechanisms underlying visual perception, and more specifically, how complex visual information from scenes is processed within the ventral visual cortex, and how this information contributes to our understanding of the visual world. 
 		
-<p>Away from his research, Matthew seeks adventure in the great outdoors. He has trekked through the Arctic Circle, summitted some of the world's highest mountains (Mt. Aconcagua, Mt. Elbrus, Mt. Kilimanjaro), and climbed the highest peak (Mafadi) in his home country, South Africa.</p>
+<p>Outside of the lab, Matthew seeks adventure in the great outdoors. He has trekked through the Arctic Circle, summitted some of the world's highest mountains (Mt. Aconcagua, Mt. Elbrus, Mt. Kilimanjaro), and climbed the highest peak (Mafadi) in his home country, South Africa.</p>
 
 <br>
 

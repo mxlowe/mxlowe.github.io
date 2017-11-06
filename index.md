@@ -1,7 +1,6 @@
 <html>
 	<head>
 		<title>Matthew X. Lowe</title> 
-
 	</head>
 	<body>
 

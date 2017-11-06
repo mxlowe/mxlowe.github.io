@@ -8,7 +8,6 @@
     		<ul>
         		
         	
-        		
     		</ul>
 		</nav>
     		<div class="blurb">

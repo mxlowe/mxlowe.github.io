@@ -21,7 +21,7 @@
 
 <br>
 
-<div style="text-align:center"><p><h5><a href="https://scholar.google.ca/citations?user=aTRL1HMAAAAJ&hl=en">Google Scholar profile</a> / <a href="https://www.researchgate.net/profile/Matthew_Lowe7">Research Gate profile</a> / <a href="email:mxlowe@gmail.com">Contact</a></h5></p></div>
+<div style="text-align:center"><p><h5><a href="https://scholar.google.ca/citations?user=aTRL1HMAAAAJ&hl=en">Google Scholar profile</a> / <a href="https://www.researchgate.net/profile/Matthew_Lowe7">Research Gate profile</a> / <a href="mailto:mxlowe@gmail.com">Contact</a></h5></p></div>
 		<footer> 
 		</footer> 
 

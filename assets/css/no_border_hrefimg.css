@@ -1,0 +1,4 @@
+a[href$=jpg], a[href$=jpeg], a[href$=jpe], a[href$=png], a[href$=gif] {
+	text-decoration: none;
+	border: 0 none;
+	}

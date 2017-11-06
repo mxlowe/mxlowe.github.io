@@ -14,7 +14,7 @@
 		</nav>
     		<div class="blurb">
         		<div style="text-align:center"><h1>Matthew X. Lowe, PhD.</h1></div>
-<div style="text-align:center"><img src="https://i1.rgstatic.net/ii/profile.image/AS%3A538535883427840%401505408368078_l/Matthew_Lowe7.png"></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/header3.png"></div>
 	
 				<h3>About</h3>
     		<!-- /blurb -->Matthew X. Lowe is currently a postdoctoral associate at the Massachusetts Institute of Technology (MIT) in the Computer Science and Artificial Intelligence Lab (CSAIL) under the supervision of Aude Oliva. Matthew obtained his bachelor's degree from the University of Cape Town, and his PhD from the University of Toronto under the supervision of Jonathan S. Cant and Susanne Ferber. Broadly, he is interested in the neural mechanisms underlying visual perception, and more specifically, how complex visual information from scenes is processed within the ventral visual cortex, and how this information contributes to our understanding of the visual world. 

@@ -23,7 +23,7 @@
 
 <div style="text-align:center"><p><h4><a href="https://scholar.google.ca/citations?user=aTRL1HMAAAAJ&hl=en">Google Scholar profile</a> / <a href="https://www.researchgate.net/profile/Matthew_Lowe7">Research Gate profile</a> / <a href="mailto:mxlowe@gmail.com">Contact</a></h4></p></div>
 
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/mit_logo.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="250" width="250"> <img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/csail_logo.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="250" width="250"></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/mit_logo.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="200" width="200"> <img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/csail_logo.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="200" width="200"></div>
 		<footer> 
 		</footer> 
 

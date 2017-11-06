@@ -1,6 +1,6 @@
 <html> 
 	<head>
-		<title>Matthew X. Lowe, PhD.</title> 
+		<title>Matthew X. Lowe</title> 
 
 	</head>
 	<body>

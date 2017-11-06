@@ -13,7 +13,7 @@
     		</ul>
 		</nav>
     		<div class="blurb">
-        		<div style="text-align:center"><h1>Matthew X. Lowe, PhD</h1></div>
+        		<div style="text-align:center"><h1>Matthew X. Lowe, PhD.</h1></div>
 <div style="text-align:center"><img src="https://i1.rgstatic.net/ii/profile.image/AS%3A538535883427840%401505408368078_l/Matthew_Lowe7.png"></div>
 	
 				<h3>About</h3>

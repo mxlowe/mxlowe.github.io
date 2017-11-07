@@ -14,7 +14,7 @@
 		</nav>
     		<div class="blurb">
         		<div style="text-align:center"><h1>Matthew X. Lowe, PhD.</h1></div>
-			<div style="text-align:center"><p><h4><a href="https://scholar.google.ca/citations?user=aTRL1HMAAAAJ&hl=en">Google Scholar profile</a> / <a href="https://www.researchgate.net/profile/Matthew_Lowe7">Research Gate profile</a> / <a href="mailto:mxlowe@gmail.com">Contact</a></h4></p></div>
+			<div style="text-align:center"><p><h4><a href="https://scholar.google.ca/citations?user=aTRL1HMAAAAJ&hl=en">Google Scholar profile</a> / <a href="https://www.researchgate.net/profile/Matthew_Lowe7"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Google_Scholar_logo_2015.PNG" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="50" width="auto"></a> / <a href="mailto:mxlowe@gmail.com">Contact</a></h4></p></div>
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/portrait.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="250" width="250"></div>
 	
 				<h3>About</h3>

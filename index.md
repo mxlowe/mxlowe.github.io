@@ -22,7 +22,7 @@
 				<h3>About</h3>
     		<!-- /blurb -->Matthew X. Lowe is currently a postdoctoral associate at the Massachusetts Institute of Technology (MIT) in the Computer Science and Artificial Intelligence Lab (CSAIL) under the supervision of Aude Oliva. Matthew obtained his PhD from the University of Toronto under the supervision of Jonathan S. Cant and Susanne Ferber, and his bachelor's degree from the University of Cape Town. Broadly, he is interested in the neural mechanisms underlying perception, and more specifically, the spatial and temporal dynamics underlying the processing of complex scenes within the brain.
 
-Currently, his work under the supervision of Aude Oliva includes investigating the spatio-temporal dynamics underlying mental imagery evoked from auditory objects and scenes, and interactions of memory with detailed object perception.
+<p>Currently, his work under the supervision of Aude Oliva includes investigating the spatio-temporal dynamics underlying mental imagery evoked from auditory objects and scenes, and interactions of memory with detailed object perception.</p>
 		
 <p>Outside of the lab, Matthew seeks adventure in the great outdoors. He has trekked through the Arctic Circle and climbed the highest mountains in South America, Europe, Africa, and his home country, South Africa.</p>
 

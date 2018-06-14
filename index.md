@@ -18,7 +18,9 @@
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/portrait.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="250" width="250"></div>
 
 <div style="text-align:center"><p><h4><a href="https://scholar.google.ca/citations?user=aTRL1HMAAAAJ&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Google_Scholar_logo_2015.PNG" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="60" width="auto"></a> <a href="https://www.researchgate.net/profile/Matthew_Lowe7"><img src="http://www.readex.eu/wp-content/uploads/2017/05/RG_square_green.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="80" width="auto"></a> <a href="mailto:mxlowe@mit.edu"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="60" width="auto"></a></h4></p></div>
-	
+				<h3>Latest News</h3>
+		<!-- /blurb -->New research, "Temporal dynamics underlying sound discrimination in the human brain" submitted to the conference on Cognitive Computational Neuroscience (CCN). 
+		<p> New paper, "Discriminating scene categories from brain activity within 100ms" accepted for publication in <i>Cortex</i>.	
 				<h3>About</h3>
     		<!-- /blurb -->Matthew X. Lowe is currently a postdoctoral associate at the Massachusetts Institute of Technology (MIT) in the Computer Science and Artificial Intelligence Lab (CSAIL) under the supervision of Aude Oliva. Matthew obtained his PhD from the University of Toronto under the supervision of Jonathan S. Cant and Susanne Ferber, and his bachelor's degree from the University of Cape Town. Broadly, he is interested in the neural mechanisms underlying perception, and more specifically, the spatial and temporal dynamics underlying the processing of complex scenes within the brain.
 

@@ -19,7 +19,7 @@
 
 <div style="text-align:center"><p><h4><a href="https://scholar.google.ca/citations?user=aTRL1HMAAAAJ&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Google_Scholar_logo_2015.PNG" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="60" width="auto"></a> <a href="https://www.researchgate.net/profile/Matthew_Lowe7"><img src="http://www.readex.eu/wp-content/uploads/2017/05/RG_square_green.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="80" width="auto"></a> <a href="mailto:mxlowe@mit.edu"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="60" width="auto"></a></h4></p></div>
 				<h3>Latest News</h3>
-		<!-- /blurb --> <h5>July 2018:</h5> "Relating the perception of visual ensemble statistics to individual levels of autistic traits" accepted for publication in <i>Attention, Perception, & Psychophysics</i> - July 2018
+		<!-- /blurb --> <h5>July 2018:</h5> "Relating the perception of visual ensemble statistics to individual levels of autistic traits" accepted for publication in <i>Attention, Perception, & Psychophysics</i>
 		<p><h5>July 2018:</h5> "Temporal dynamics underlying sound discrimination in the human brain" to be presented at the conference on Cognitive Computational Neuroscience (CCN) 2018
 		<p><h5>June 2018:</h5> "Discriminating scene categories from brain activity within 100ms" accepted for publication in <i>Cortex</i>.	
 				<h3>About</h3> 

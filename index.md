@@ -21,7 +21,7 @@
 				<h3>Latest News</h3>
 		<!-- /blurb --> <h5>July 2018:</h5> "Relating the perception of visual ensemble statistics to individual levels of autistic traits" accepted for publication in <i>Attention, Perception, & Psychophysics</i>
 		<p><h5>July 2018:</h5> "Temporal dynamics underlying sound discrimination in the human brain" to be presented at the conference on Cognitive Computational Neuroscience (CCN) 2018
-		<p><h5>June 2018:</h5> "Discriminating scene categories from brain activity within 100ms" accepted for publication in <i>Cortex</i>.	
+		<p><h5>June 2018:</h5> "Discriminating scene categories from brain activity within 100 milliseconds" accepted for publication in <i>Cortex</i>.	
 				<h3>About</h3> 
     		<!-- /blurb -->Matthew X. Lowe is currently a postdoctoral associate at the Massachusetts Institute of Technology (MIT) in the Computer Science and Artificial Intelligence Lab (CSAIL) under the supervision of Aude Oliva. Matthew obtained his PhD from the University of Toronto under the supervision of Jonathan S. Cant and Susanne Ferber, and his bachelor's degree from the University of Cape Town. Broadly, he is interested in the neural mechanisms underlying perception, and more specifically, the spatial and temporal dynamics underlying the processing of complex scenes within the brain.
 

@@ -23,11 +23,11 @@
 		<p><h5>July 2018:</h5> "Temporal dynamics underlying sound discrimination in the human brain" to be presented at the conference on Cognitive Computational Neuroscience (CCN) 2018
 		<p><h5>June 2018:</h5> "Discriminating scene categories from brain activity within 100 milliseconds" accepted for publication in <i>Cortex</i>.	
 				<h3>About</h3> 
-    		<!-- /blurb -->Matthew X. Lowe is currently a postdoctoral associate at the Massachusetts Institute of Technology (MIT) in the Computer Science and Artificial Intelligence Lab (CSAIL) under the supervision of Aude Oliva. Matthew obtained his PhD from the University of Toronto under the supervision of Jonathan S. Cant and Susanne Ferber, and his bachelor's degree from the University of Cape Town. Broadly, he is interested in the neural mechanisms underlying perception, and more specifically, the spatial and temporal dynamics underlying the processing of complex scenes within the brain.
+    		<!-- /blurb -->Matthew X. Lowe is currently a postdoctoral associate at the Massachusetts Institute of Technology (MIT) in the Computer Science and Artificial Intelligence Lab (CSAIL) (PI: Aude Oliva; Computational Perception and Cognition Lab). Matthew obtained his PhD from the University of Toronto (PIs: Jonathan S. Cant; Susanne Ferber), and his bachelor's degree from the University of Cape Town. Broadly, he is interested in the neural mechanisms underlying perception, and more specifically, the spatial and temporal dynamics underlying the processing of visual and auditory input.
 
-<p>Currently, his work under the supervision of Aude Oliva concerns the investigation of the spatio-temporal dynamics underlying auditory processing of objects and scenes using MEG-fMRI fusion, and interactions of memory with detailed object perception.</p>
+<p>Currently, his work with Aude Oliva concerns the investigation of the spatio-temporal dynamics underlying auditory processing of various sound sources using MEG-fMRI fusion. The goal of his current research is to elucidate the spatial and temporal neural constraints which govern auditory perception, and, together with his previous work in vision, to explore the processing of audiovisual signals in the human brain. </p>
 		
-<p>Outside of the lab, Matthew seeks adventure in the great outdoors. He has trekked through the Arctic Circle and climbed the highest mountains in South America, Europe, Africa, and his home country, South Africa.</p>
+<p>Outside of the lab, Matthew seeks adventure in the great outdoors. He has trekked through the Arctic Circle and climbed the highest mountains in South America (Mt. Aconcagua), Europe (Mt. Elbrus), Africa (Mt. Kilimanjaro), and his home country, South Africa (Mafadi).</p>
 
 <br>
 

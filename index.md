@@ -14,12 +14,13 @@
 		</nav>
     		<div class="blurb">
         		<div style="text-align:center"><h1>Matthew X. Lowe, PhD.</h1></div>
-			
+<div style="text-align:center"><p><h4><a href="https://scholar.google.ca/citations?user=aTRL1HMAAAAJ&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Google_Scholar_logo_2015.PNG" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="60" width="auto"></a> <a href="https://www.researchgate.net/profile/Matthew_Lowe7"><img src="http://www.readex.eu/wp-content/uploads/2017/05/RG_square_green.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="80" width="auto"></a> <a href="mailto:mxlowe@mit.edu"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="60" width="auto"></a></h4></p></div>
+
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/portrait.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="250" width="250"></div>
 
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/brain_trans.gif" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="250" width="250" alt="Similarity-based Fusion of Audition"></div>
 
-<div style="text-align:center"><p><h4><a href="https://scholar.google.ca/citations?user=aTRL1HMAAAAJ&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Google_Scholar_logo_2015.PNG" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="60" width="auto"></a> <a href="https://www.researchgate.net/profile/Matthew_Lowe7"><img src="http://www.readex.eu/wp-content/uploads/2017/05/RG_square_green.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="80" width="auto"></a> <a href="mailto:mxlowe@mit.edu"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="60" width="auto"></a></h4></p></div>
+
 				<h3>Latest News</h3>
 		<!-- /blurb --> <h5>January 2019:</h5> The abstract, "Neural dynamics of human auditory perception across space and time" was awarded the Postdoctoral Fellow Award and will be presented at the Cognitive Neuroscience Society Annual meeting, 2019.
 		<p><h5>July 2018:</h5> "Relating the perception of visual ensemble statistics to individual levels of autistic traits" accepted for publication in <i>Attention, Perception, & Psychophysics</i>

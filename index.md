@@ -22,9 +22,9 @@
 
 
 				<h3>Latest News</h3>
-		<!-- /blurb --> <h5>January 2019:</h5> The abstract, "Neural dynamics of human auditory perception across space and time" was awarded the Postdoctoral Fellow Award and will be presented at the Cognitive Neuroscience Society Annual meeting, 2019.
-		<p><h5>July 2018:</h5> "Relating the perception of visual ensemble statistics to individual levels of autistic traits" accepted for publication in <i>Attention, Perception, & Psychophysics</i>
-		<p><h5>June 2018:</h5> "Discriminating scene categories from brain activity within 100 milliseconds" accepted for publication and featured on the front cover of <i>Cortex</i>.	
+		<!-- /blurb --> <h5>January 2019:</h5> Our abstract, "Neural dynamics of human auditory perception across space and time" (Lowe et al.) was awarded the Postdoctoral Fellow Award and will be presented at the Cognitive Neuroscience Society Annual meeting, 2019.
+		<p><h5>July 2018:</h5> "Relating the perception of visual ensemble statistics to individual levels of autistic traits" (Lowe et al.) accepted for publication in <i>Attention, Perception, & Psychophysics</i>
+		<p><h5>June 2018:</h5> "Discriminating scene categories from brain activity within 100 milliseconds" (Lowe et al.) accepted for publication and featured on the front cover of <i>Cortex</i>.	
 				<h3>About</h3> 
     		<!-- /blurb -->Matthew X. Lowe is currently a postdoctoral associate at the Massachusetts Institute of Technology (MIT) in the Computer Science and Artificial Intelligence Lab (CSAIL) (PI: Aude Oliva; Computational Perception and Cognition Lab). Matthew obtained his PhD from the University of Toronto (PIs: Jonathan S. Cant; Susanne Ferber), and his bachelor's degree from the University of Cape Town. Broadly, he is interested in the neural mechanisms underlying perception, and more specifically, the spatial and temporal dynamics underlying the processing of visual and auditory input.
 

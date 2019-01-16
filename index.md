@@ -30,7 +30,7 @@
 
 <p>Currently, his work at MIT involves the investigation of the spatiotemporal neural dynamics underlying auditory processing of various sound sources using MEG, fMRI, and MEG-fMRI similarity-based fusion. The goal of his current research is to elucidate the spatial and temporal neural constraints which govern auditory perception. By building on his work in both vision and audition, his future goals aim to explore the processing of audiovisual signals in the human brain. </p>
 		
-<p>Outside of the lab, Matthew seeks adventure in the great outdoors. He has trekked through the Arctic Circle and climbed the highest mountains in South America (Mt. Aconcagua), Europe (Mt. Elbrus), Africa (Mt. Kilimanjaro), and his home country, South Africa (Mafadi).</p>
+<p>Outside of his work, Matthew seeks adventure in the outdoors. He has trekked through the Arctic Circle and climbed to the peak of the highest mountains in South America (Mt. Aconcagua), Europe (Mt. Elbrus), Africa (Mt. Kilimanjaro), and his home country, South Africa (Mafadi).</p>
 
 <br>
 

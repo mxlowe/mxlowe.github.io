@@ -22,7 +22,7 @@
 
 
 				<h3>Latest News</h3>
-				<h5>February 2019:</h5> Our abstract, "Spatiotemporal neural representations in high-level visual cortex evoked from sounds" (Lowe et al.) was was invited for a talk and will be presented at the Vision Science Society Annual Meeting, 2019.
+				<h5>February 2019:</h5> Our abstract, "Spatiotemporal neural representations in high-level visual cortex evoked from sounds" (Lowe et al.) was invited for a talk and will be presented at the Vision Science Society Annual Meeting, 2019.
 		 <h5>January 2019:</h5> Our abstract, "Neural dynamics of human auditory perception across space and time" (Lowe et al.) was awarded the Postdoctoral Fellow Award and will be presented at the Cognitive Neuroscience Society Annual meeting, 2019.
 		<p><h5>July 2018:</h5> "Relating the perception of visual ensemble statistics to individual levels of autistic traits" (Lowe et al.) accepted for publication in <i>Attention, Perception, & Psychophysics</i>
 		<p><h5>June 2018:</h5> "Discriminating scene categories from brain activity within 100 milliseconds" (Lowe et al.) accepted for publication and featured on the front cover of <i>Cortex</i>.	

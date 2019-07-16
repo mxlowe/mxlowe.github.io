@@ -19,17 +19,18 @@
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/portrait.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="250" width="250"></div>
 <div style="text-align:center"><p><h4><a href="https://scholar.google.ca/citations?user=aTRL1HMAAAAJ&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Google_Scholar_logo_2015.PNG" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="60" width="auto"></a> <a href="https://www.researchgate.net/profile/Matthew_Lowe7"><img src="http://www.readex.eu/wp-content/uploads/2017/05/RG_square_green.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="80" width="auto"></a> <a href="mailto:mxlowe@mit.edu"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="60" width="auto"></a></h4></p></div>
 
-<h5>Latest Research</h5> Similarity-based fusion of MEG-fMRI sound representations in the human brain.
+<h3>Latest Research</h3> Similarity-based fusion of MEG-fMRI sound representations in the human brain.
+<p>
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:75.058%;"><iframe src="https://streamable.com/s/croqx/ikymvf" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 
 
 				<h3>Latest News</h3>
-				<h5>February 2019:</h5> Our abstract, "Spatiotemporal neural representations in high-level visual cortex evoked from sounds" (Lowe et al.) was invited for a talk and will be presented at the Vision Science Society Annual Meeting, 2019.
-		 <h5>January 2019:</h5> Matthew was awarded the Postdoctoral Fellow Award and will present our abstract, "Neural dynamics of human auditory perception across space and time" (Lowe et al.) at the Cognitive Neuroscience Society Annual Meeting, 2019.
-		<p><h5>July 2018:</h5> "Relating the perception of visual ensemble statistics to individual levels of autistic traits" (Lowe et al.) accepted for publication in <i>Attention, Perception, & Psychophysics</i>
-		<p><h5>June 2018:</h5> "Discriminating scene categories from brain activity within 100 milliseconds" (Lowe et al.) accepted for publication and featured on the front cover of <i>Cortex</i>.	
+				<h5>May 2019</h5> Our abstract, "Spatiotemporal neural representations in high-level visual cortex evoked from sounds" (Lowe et al.) was presented as a talk at the Vision Science Society Annual Meeting, 2019.
+		 <h5>March 2019:</h5> Matthew was awarded the Postdoctoral Fellow Award and presented our abstract, "Neural dynamics of human auditory perception across space and time" (Lowe et al.) at the Cognitive Neuroscience Society Annual Meeting, 2019.
+		<p><h5>August 2018:</h5>Our paper, "Relating the perception of visual ensemble statistics to individual levels of autistic traits" (Lowe et al.) was published in <i>Attention, Perception, & Psychophysics</i>
+		<p><h5>June 2018:</h5> Our paper, "Discriminating scene categories from brain activity within 100 milliseconds" (Lowe et al.) was published and featured on the front cover of <i>Cortex</i>.	
 		
 		<div style="text-align:center"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/brain_trans.gif" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="250" width="250" alt="Similarity-based Fusion of Audition"></div>
 				<h3>About</h3> 

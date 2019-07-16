@@ -19,7 +19,7 @@
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/portrait.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="250" width="250"></div>
 <div style="text-align:center"><p><h4><a href="https://scholar.google.ca/citations?user=aTRL1HMAAAAJ&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Google_Scholar_logo_2015.PNG" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="60" width="auto"></a> <a href="https://www.researchgate.net/profile/Matthew_Lowe7"><img src="http://www.readex.eu/wp-content/uploads/2017/05/RG_square_green.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="80" width="auto"></a> <a href="mailto:mxlowe@mit.edu"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="60" width="auto"></a></h4></p></div>
 
-{% gdrive %} https://drive.google.com/file/d/1UNuxx6tTuQvNsynCyL_2rB4bhm-7MyFm/view?usp=sharing {% gdrive %}
+<iframe src="https://drive.google.com/file/d/1UNuxx6tTuQvNsynCyL_2rB4bhm-7MyFm/view?usp=sharing" width="480"></iframe>
 
 
 

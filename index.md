@@ -25,7 +25,7 @@
 <div style="width:100%;height:0px;position:relative;padding-bottom:75.058%;"><iframe src="https://streamable.com/s/croqx/ikymvf" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 
-
+<br>
 				<h3>Latest News</h3>
 				<h5>May 2019</h5> Our abstract, "Spatiotemporal neural representations in high-level visual cortex evoked from sounds" (Lowe et al.) was presented as a talk at the Vision Science Society Annual Meeting, 2019.
 		 <h5>March 2019:</h5> Matthew was awarded the Postdoctoral Fellow Award and presented our abstract, "Neural dynamics of human auditory perception across space and time" (Lowe et al.) at the Cognitive Neuroscience Society Annual Meeting, 2019.

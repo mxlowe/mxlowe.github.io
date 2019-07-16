@@ -29,8 +29,6 @@
 				<h3>Latest News</h3>
 				<h5>May 2019</h5> Our abstract, "Spatiotemporal neural representations in high-level visual cortex evoked from sounds" (Lowe et al.) was presented as a talk at the Vision Science Society Annual Meeting, 2019.
 		 <h5>March 2019:</h5> Matthew was awarded the Postdoctoral Fellow Award and presented our abstract, "Neural dynamics of human auditory perception across space and time" (Lowe et al.) at the Cognitive Neuroscience Society Annual Meeting, 2019.
-		<p><h5>August 2018:</h5>Our paper, "Relating the perception of visual ensemble statistics to individual levels of autistic traits" (Lowe et al.) was published in <i>Attention, Perception, & Psychophysics</i>
-		<p><h5>June 2018:</h5> Our paper, "Discriminating scene categories from brain activity within 100 milliseconds" (Lowe et al.) was published and featured on the front cover of <i>Cortex</i>.	
 		
 		<div style="text-align:center"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/brain_trans.gif" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="250" width="250" alt="Similarity-based Fusion of Audition"></div>
 				<h3>About</h3> 

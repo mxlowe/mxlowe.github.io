@@ -27,6 +27,7 @@
 
 <br>
 				<h3>Latest News</h3>
+				<h5>October 2019</h5> Our abstract, "Spatiotemporal dynamics of sound representations in the human brain" (Lowe et al.) will be presented at the Society for Neuroscience, 2019, on October 20th, Chicago. Please stop by for a discussion.
 				<h5>May 2019</h5> Our abstract, "Spatiotemporal neural representations in high-level visual cortex evoked from sounds" (Lowe et al.) was presented as a talk at the Vision Science Society Annual Meeting, 2019.
 		 <h5>March 2019:</h5> Matthew was awarded the Postdoctoral Fellow Award and presented our abstract, "Neural dynamics of human auditory perception across space and time" (Lowe et al.) at the Cognitive Neuroscience Society Annual Meeting, 2019.
 		

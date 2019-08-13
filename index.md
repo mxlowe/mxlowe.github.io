@@ -39,7 +39,7 @@ Similarity-based fusion of MEG-fMRI sound representations in the human brain. Wh
 
 <p>
 <h4>Visual Imagery</h4> 
-The video below shows sensorwise decoding of MEG data for the difference between perception and visual imagery across time and space. Imagery occurs as a late stage process distinct from perception, involving multiple areas across the brain, including occipital areas, occipitoparietal areas, and frontal cortex.
+The video below shows sensorwise decoding of MEG data for the difference between perception and visual imagery across time and space. Significant differences are shown in black. Imagery occurs as a late stage process distinct from perception, involving multiple areas across the brain, including occipital areas, occipitoparietal areas, and frontal cortex.
 <div style="width:100%;height:0px;position:relative;padding-bottom:75.058%;"><iframe src="https://streamable.com/s/7aaqk/firnyy" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>	
 	
 

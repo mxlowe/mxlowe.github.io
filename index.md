@@ -30,13 +30,16 @@
 
 
 
-<h3>Latest Research</h3> Similarity-based fusion of MEG-fMRI sound representations in the human brain. Whole-brain fusion shows the emergence and progression of sound representations by correlating spatial data from fMRI with temporal data from MEG. In this video, you can see the involvement of a number of different neural regions, including primary and non-primary auditory cortex, the left inferior frontal gyrus, the retrosplenial cortex, and several ventral-stream areas (parahippocampal cortex, fusiform gyrus, and the anterior lateral occipital area).
+<h3>Latest Research</h3> 
+<h4>Auditory Processing</h4> 
+Similarity-based fusion of MEG-fMRI sound representations in the human brain. Whole-brain fusion shows the emergence and progression of sound representations by correlating spatial data from fMRI with temporal data from MEG. In the video below, you can see the involvement of a number of different neural regions, including primary and non-primary auditory cortex, the left inferior frontal gyrus, the retrosplenial cortex, and several ventral-stream areas (parahippocampal cortex, fusiform gyrus, and the anterior lateral occipital area).
 <p>
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:75.058%;"><iframe src="https://streamable.com/s/croqx/ikymvf" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 <p>
-Sensorwise decoding of MEG data showing the difference between perception and visual imagery across time and space.
+<h4>Visual Imagery</h4> 
+The video below shows sensorwise decoding of MEG data for the difference between perception and visual imagery across time and space. Imagery occurs as a late stage process distinct from perception, involving multiple areas across the brain, including occipital areas, occipitoparietal areas, and frontal cortex.
 <div style="width:100%;height:0px;position:relative;padding-bottom:75.058%;"><iframe src="https://streamable.com/s/7aaqk/firnyy" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>	
 	
 

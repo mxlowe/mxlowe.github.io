@@ -28,9 +28,6 @@
 <br>
 
 
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/mit_logo.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="150" width="150"> <img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/csail_logo.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="150" width="150"></div>
-		<footer> 
-		</footer> 
 
 
 <h3>Latest Research</h3> Similarity-based fusion of MEG-fMRI sound representations in the human brain. Whole-brain fusion shows the emergence and progression of sound representations by correlating spatial data from fMRI with temporal data from MEG. In this video, you can see the involvement of a number of different neural regions, including primary and non-primary auditory cortex, the left inferior frontal gyrus, the retrosplenial cortex, and several ventral-stream areas (parahippocampal cortex, fusiform gyrus, and the anterior lateral occipital area).
@@ -51,6 +48,11 @@ Sensorwise decoding of MEG data showing the difference between perception and vi
 		 <h5>March 2019:</h5> Matthew was awarded the Postdoctoral Fellow Award and presented our abstract, "Neural dynamics of human auditory perception across space and time" (Lowe et al.) at the Cognitive Neuroscience Society Annual Meeting, 2019.
 		
 		<div style="text-align:center"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/brain_trans.gif" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="250" width="250" alt="Similarity-based Fusion of Audition"></div>
+		
+		
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/mit_logo.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="150" width="150"> <img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/csail_logo.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="150" width="150"></div>
+		<footer> 
+		</footer> 
 
 
   

@@ -21,9 +21,9 @@
 
 <h3>About</h3> 
     		Matthew X. Lowe is currently a postdoctoral associate at the Massachusetts Institute of Technology (MIT) in the Computer Science and Artificial Intelligence Lab (CSAIL) (PI: Aude Oliva; Computational Perception and Cognition Lab). Matthew obtained his PhD from the University of Toronto (PIs: Jonathan S. Cant; Susanne Ferber), and his bachelor's degree from the University of Cape Town. 
-		<p>Broadly, the aim of his work is to understand perception through an interdisciplinary approach bridging vision and audition. He uses functional magnetic resonance imaging (fMRI), magneto- and electroencephalography (MEG/EEG), computational neuroscience techniques, and behavioural investigations. 
+		<p>Broadly, Matthew's work aims to understand perception through an interdisciplinary approach bridging vision and audition. He uses functional magnetic resonance imaging (fMRI), magneto- and electroencephalography (MEG/EEG), computational neuroscience techniques, and behavioural investigations. 
 		
-<p>Outside of his work, Matthew seeks adventure in the outdoors. He has trekked through the Arctic Circle and climbed to the peak of the highest mountains in South America (Mt. Aconcagua), Europe (Mt. Elbrus), Africa (Mt. Kilimanjaro), and his home country, South Africa (Mafadi).</p>
+<p>Outside of his work, Matthew is an avid adventurer. He has trekked through the Arctic Circle and climbed to the peak of the highest mountains in South America (Mt. Aconcagua), Europe (Mt. Elbrus), Africa (Mt. Kilimanjaro), and his home country, South Africa (Mafadi).</p>
 
 <br>
 

@@ -24,6 +24,11 @@
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:75.058%;"><iframe src="https://streamable.com/s/croqx/ikymvf" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
+<p>
+Sensorwise decoding of MEG data showing the difference between perception and visual imagery across time and space.
+<div style="width:100%;height:0px;position:relative;padding-bottom:75.058%;"><iframe src="https://streamable.com/s/7aaqk/firnyy" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>	
+	
+
 
 <br>
 				<h3>Latest News</h3>

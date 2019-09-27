@@ -27,8 +27,7 @@
 
 <br>
 
-
-
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/mit_logo.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="150" width="150"> <img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/HMS_logo.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="150" width="150"></div>
 
 <h3>Latest Research</h3> 
 <h4>Auditory Processing</h4> 
@@ -53,7 +52,7 @@ The video below shows sensorwise decoding of MEG data for the difference between
 		<!--<div style="text-align:center"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/brain_trans.gif" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="250" width="250" alt="Similarity-based Fusion of Audition"></div>-->
 		
 		
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/mit_logo.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="150" width="150"> <img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/HMS_logo.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="150" width="150"></div>
+
 		<footer> 
 		</footer> 
 

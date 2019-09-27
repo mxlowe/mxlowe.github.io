@@ -43,6 +43,14 @@ table {
 Theme Styles
 *******************************************************************************/
 
+// Temp Fix for Slate theme gem for Github Pages
+
+@media screen and (max-width: 992px) {
+  img {
+    max-width: 100%;
+  }
+}
+
 body {
   box-sizing: border-box;
   color:#373737;

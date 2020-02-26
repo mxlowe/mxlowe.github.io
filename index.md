@@ -20,7 +20,7 @@
 <div style="text-align:center"><p><h4><a href="https://scholar.google.ca/citations?user=aTRL1HMAAAAJ&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Google_Scholar_logo_2015.PNG" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="60" width="auto"></a> <a href="https://www.researchgate.net/profile/Matthew_Lowe7"><img src="http://www.readex.eu/wp-content/uploads/2017/05/RG_square_green.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="80" width="auto"></a> <a href="mailto:mxlowe@mit.edu"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="60" width="auto"></a></h4></p></div>
 
 <h3>About</h3> 
-    		Matthew X. Lowe is the Director of Research of the Stanford Systems and Cognitive Neuroscience Lab (SCSNL) at Stanford University, School of Medicine. Before joining Stanford, hew was a postdoctoral associate in the Computer Science and Artificial Intelligence Lab (CSAIL) at the Massachusetts Institute of Technology (MIT), and a visiting research collaborator in the Visual Attention Lab at Harvard Medical School and Brigham and Women's Hospital. Matthew obtained his PhD from the University of Toronto, and his bachelor's degree from the University of Cape Town.  
+    		Matthew X. Lowe is the Director of Research of the Stanford Systems and Cognitive Neuroscience Lab (SCSNL) at Stanford University, School of Medicine. Before joining Stanford, he was a postdoctoral associate in the Computer Science and Artificial Intelligence Lab (CSAIL) at the Massachusetts Institute of Technology (MIT), and a visiting research fellow in the Visual Attention Lab at Harvard Medical School and Brigham and Women's Hospital. Matthew obtained his PhD from the University of Toronto, and his bachelor's degree from the University of Cape Town.  
 		
 <p>Outside of his work, Matthew is an avid adventurer. He has trekked through the Arctic Circle and climbed to the peak of the highest mountains in South America (Mt. Aconcagua), Europe (Mt. Elbrus), Africa (Mt. Kilimanjaro), and his home country, South Africa (Mafadi).</p>
 
@@ -35,19 +35,10 @@ Similarity-based fusion of MEG-fMRI sound representations in the human brain. Wh
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:75.058%;"><iframe src="https://streamable.com/s/croqx/ikymvf" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
-<p>
-<h4>Visual Imagery</h4> 
-The video below shows sensorwise decoding of MEG data for the difference between perception and visual imagery across time and space. Significant differences are shown in black. Imagery occurs as a late stage process distinct from perception, involving multiple areas across the brain, including occipital areas, occipitoparietal areas, and frontal cortex.
-<div style="width:100%;height:0px;position:relative;padding-bottom:75.058%;"><iframe src="https://streamable.com/s/7aaqk/firnyy" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>	
+
 	
-
-
 <br>
-				<h3>Latest News</h3>
-				<h5>October 2019</h5> Our abstract, "Spatiotemporal dynamics of sound representations in the human brain" (Lowe et al.) will be presented at the Society for Neuroscience, 2019, on October 20th, Chicago. Please stop by for a discussion.
-				<h5>May 2019</h5> Our abstract, "Spatiotemporal neural representations in high-level visual cortex evoked from sounds" (Lowe et al.) was presented as a talk at the Vision Science Society Annual Meeting, 2019.
-		 <h5>March 2019:</h5> Matthew was awarded the Postdoctoral Fellow Award and presented our abstract, "Neural dynamics of human auditory perception across space and time" (Lowe et al.) at the Cognitive Neuroscience Society Annual Meeting, 2019.
-		
+				
 		<!--<div style="text-align:center"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/brain_trans.gif" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="250" width="250" alt="Similarity-based Fusion of Audition"></div>-->
 		
 		

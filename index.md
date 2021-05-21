@@ -13,7 +13,7 @@
     		</ul>
 		</nav>
     		<div class="blurb">
-        		<div style="text-align:center"><h1>Matthew X. Lowe, PhD.</h1></div>
+        		<div style="text-align:center"><h1>Matthew X. Lowe, Ph.D.</h1></div>
 
 
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/circle-cropped.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="250" width="250"></div>

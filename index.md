@@ -24,6 +24,8 @@
 		
 <p>Outside of his work, Matthew is an avid adventurer. He has trekked through the Arctic Circle and climbed to the peak of the highest mountains in South America (Mt. Aconcagua), Europe (Mt. Elbrus), Africa (Mt. Kilimanjaro), and his home country, South Africa (Mafadi).</p>
 
+<p> Matthew lives with his partner, Hadley, and their dog, Kansas, in San Francisco, California.</p>
+
 <br>
 
 

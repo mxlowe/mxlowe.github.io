@@ -33,6 +33,8 @@
 <p> Matthew lives with his husband, Hadley, and their dog, Kansas, in Denver, Colorado.</p>
 
 <br>
+		
+		<img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/MIT.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="100" width="auto"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/stanford.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="100" width="auto"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/HMS_logo.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="100" width="auto"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/uoft.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="100" width="auto"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/uct.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="100" width="auto">
 
 
 

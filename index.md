@@ -15,8 +15,6 @@
     		<div class="blurb">
         		<div style="text-align:center"><h1>Matthew X. Lowe, Ph.D.</h1></div>
 
-
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/circle-cropped.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="250" width="250"></div>
 <div style="text-align:center"><p><h4><a href="mailto:mxlowe@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="60" width="auto"></a><a href="https://scholar.google.ca/citations?user=aTRL1HMAAAAJ&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Google_Scholar_logo_2015.PNG" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="60" width="auto"></a><a href="https://www.linkedin.com/in/matthew-x-lowe-phd-602785159/"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/linkedin.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="70" width="auto"></a> 
 	<br>
 	<a href="https://unlimitedsciences.org/"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/US-Logo-New-Color-Final.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="40" width="auto"></a><a href="https://realmofcaring.org/"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/RoC_1.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="50" width="auto"></a> </h4></p></div>

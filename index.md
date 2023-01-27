@@ -26,7 +26,7 @@
 
 <p>He is currently Chief Scientific Officer at Unlimited Sciences (www.unlimitedsciences.org), a psychedelics research non-profit using data-driven methods to inform public perception, education, policy, and practices for psychedelics use. He is also Research Director at Realm of Caring (www.realmofcaring.org), a cannabis research non-profit which seeks to facilitate and encourage the mainstream acceptance of transformative, plant-powered therapies to benefit individuals and families and serve healthcare providers as well as the hemp and cannabis industries.  </p>
 
-<p>Previously, he was Research Director at Stanford University, a postdoctoral associate at the Massachusetts Institute of Technology (MIT), and a visiting research fellow at Harvard Medical School and Brigham and Women's Hospital. Matthew obtained his PhD in psychology and cognitive neuroscience from the University of Toronto, and his bachelor's degree from the University of Cape Town.  </p>
+<p>After receiving his doctorate in psychology and cognitive neuroscience at the University of Toronto, Matthew worked as a research scientist at Stanford, MIT, and Harvard.  </p>
 		
 <p>Outside of his work, Matthew is an avid adventurer. He has trekked through the Arctic Circle and climbed to the peak of the highest mountains in South America (Mt. Aconcagua), Europe (Mt. Elbrus), Africa (Mt. Kilimanjaro), and his home country, South Africa (Mafadi).</p>
 

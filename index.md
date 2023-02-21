@@ -26,7 +26,7 @@
 
 <p>He has published numerous peer-reviewed articles and his work and interviews have been featured in dozens of media outlets, including Forbes, Vice, Yahoo!, The Denver Post, High Times, DoubleBlind, and Benzinga.</p>
 
-<p>He is currently Chief Scientific Officer at Unlimited Sciences (www.unlimitedsciences.org), a psychedelics research non-profit using data-driven methods to inform public perception, education, policy, and practices for psychedelics use. He is also Research Director at Realm of Caring (www.realmofcaring.org), a cannabis research non-profit which seeks to facilitate and encourage the mainstream acceptance of transformative, plant-powered therapies to benefit individuals and families and serve healthcare providers as well as the hemp and cannabis industries.  </p>
+<p>He is currently the Executive Director & Chief Scientific Officer at Unlimited Sciences (www.unlimitedsciences.org), a psychedelics research non-profit using data-driven methods to inform public perception, education, policy, and practices for psychedelics use. He is also Research Director at Realm of Caring (www.realmofcaring.org), a cannabis research non-profit which seeks to facilitate and encourage the mainstream acceptance of transformative, plant-powered therapies to benefit individuals and families and serve healthcare providers as well as the hemp and cannabis industries.  </p>
 		
 <p>Matthew has trekked through the Arctic Circle and climbed to the peak of the highest mountains in South America (Mt. Aconcagua), Europe (Mt. Elbrus), Africa (Mt. Kilimanjaro), and his home country, South Africa (Mafadi). He lives with his husband, Hadley, and their dog, Kansas, in Denver, Colorado.</p>
 

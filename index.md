@@ -22,7 +22,7 @@
 	<a href="https://unlimitedsciences.org/"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/US-Logo-New-Color-Final.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="40" width="auto"></a><a href="https://realmofcaring.org/"><img src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/RoC_1.png" style='border: 0px solid #f00; margin: 0px; box-shadow: none;' height="50" width="auto"></a> </h4></p></div>
 
 <h3>About</h3><p> 
-    		Dr. Matthew X. Lowe is a research scientist, advisor, and writer with over a decade of experience researching factors that influence human behavior and brain function. After receiving his doctorate in psychology and cognitive neuroscience at the University of Toronto, Matthew worked as a research scientist at Stanford, MIT, and Harvard. 
+    		Dr. Matthew X. Lowe is a research scientist with over a decade of experience researching factors that influence human behavior and brain function. After receiving his doctorate in psychology and cognitive neuroscience at the University of Toronto, Matthew worked as a research scientist at Stanford, MIT, and Harvard. He is currently the principal investigator of several longitudinal investigations examining health outcomes associated with the use of psychedelics and cannabis.
 
 <p>He has published numerous peer-reviewed articles and his work and interviews have been featured in dozens of media outlets, including Forbes, Vice, Yahoo!, The Denver Post, High Times, DoubleBlind, and Benzinga.</p>
 

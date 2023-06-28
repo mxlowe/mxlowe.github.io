@@ -26,7 +26,7 @@
 	<p> 	
 		Dr. Lowe is currently the Director of Research for Realm of Caring (www.realmofcaring.org), a 501(c)(3) non-profit cannabis research organization which seeks to facilitate and encourage the mainstream acceptance of transformative, plant-powered therapies to benefit individuals and families and serve healthcare providers as well as the hemp and cannabis industries. He is also the Executive Director & Chief Scientific Officer for Realm of Caeing's fiscally sponsored partner, Unlimited Sciences (www.unlimitedsciences.org), a psychedelics research non-profit using data-driven methods to inform public perception, education, policy, and practices for psychedelics use.
 <p> 
-He is the Principal Investigator on several ongoing studies on cannabis and psychedelics, and his work has been featured in Forbes, Vice, Yahoo!, Web MD, Business Insider, The Denver Post, High Times, DoubleBlind, Benzinga, and dozens of other media outlets. Dr. Matthew X. Lowe is an experienced research scientist who has spent over a decade researching factors that influence human behavior and brain function. Matthew is the Executive Director & Chief Scientific Officer of Unlimited Sciences ,  He is also the Research Director of Realm of Caring ), 
+He is the Principal Investigator on several ongoing studies on cannabis and psychedelics, and his work has been featured in Forbes, Vice, Yahoo!, Web MD, Business Insider, The Denver Post, High Times, DoubleBlind, Benzinga, and dozens of other media outlets. 
 		
 <br>
 		
